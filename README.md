@@ -1,6 +1,6 @@
 # SearchAndRescue-ML-Algorithms
 
-## Masters Algorthim Class CS5800 - Vancouver - Summer 2020 - Northeastern University
+## Masters Algorthim Class CS5800 - Vancouver - Summer 2021 - Northeastern University
 
 # Search and Rescue Paper
 [![SAR_Paper](https://github.com/coder-chick/SearchAndRescue-ML-Algorithms/blob/main/SAR_Paper_Screenshot.png "CS5800 ALGORITHMS CLASS")](https://github.com/coder-chick/SearchAndRescue-ML-Algorithms/blob/main/Drone%20SAR%20Paper.pdf)
