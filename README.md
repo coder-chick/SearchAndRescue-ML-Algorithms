@@ -12,6 +12,12 @@ Welcome to **Drone-Powered SAR**, a project that combines the power of AI 🤖, 
 - **Unity Simulation**: Realistic SAR scenario testing in a 3D environment 🌐, modeled after Whistler, British Columbia.  
 
 ---
+### Video DEMO
+
+https://user-images.githubusercontent.com/70995997/172330328-558c89be-0ccc-4a74-8b9d-b6b97bbe244f.mov
+
+---
+
 
 ## **🎯 Objectives**
 
@@ -64,10 +70,6 @@ For detailed insights into the research and results, check out the attached pape
 ![Search & Rescue Simulation](https://github.com/coder-chick/SearchAndRescue-ML-Algorithms/blob/main/SAR3.png "Whistler, B.C.")  
 ![Search & Rescue Simulation](https://github.com/coder-chick/SearchAndRescue-ML-Algorithms/blob/main/SAR4.png "Whistler, B.C.")  
 ![Search & Rescue Simulation](https://github.com/coder-chick/SearchAndRescue-ML-Algorithms/blob/main/SAR5.png "Whistler, B.C.")  
-
-### Video DEMO
-
-https://user-images.githubusercontent.com/70995997/172330328-558c89be-0ccc-4a74-8b9d-b6b97bbe244f.mov
 
 ---
 
